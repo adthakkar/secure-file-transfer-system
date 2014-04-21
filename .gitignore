@@ -1,0 +1,24 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Libraries
+
+lib/
+
+
+*.key
+*.keys
+*.bin
+
+.settings
+.classpath
+.project

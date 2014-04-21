@@ -1,0 +1,3 @@
+# Test generated file extension, should be included into git tree
+# Though there is clean up code to remove generated temp files but that might fail.
+*.key
